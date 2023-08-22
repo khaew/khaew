@@ -1,7 +1,17 @@
 - 👋 Hi, I’m @khaew
+  
 - 👀 This repository is an archive for me.
+  
 - 🏡 Seriously, I want to work from home
+  
 - 🗒️ I'm sorry, but I like to study alone
+
+
+
+
+
+
+
 
 
 <!---
