@@ -6,6 +6,8 @@
   
 - 🗒️ I'm sorry, but I like to study alone
 
+- 📘 I'm a beginner, so I won't write a coding history
+
 
 
 
